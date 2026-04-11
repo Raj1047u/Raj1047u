@@ -19,16 +19,6 @@
 
 ---
 
-## 🎓 Education
-
-| Degree | Institution | Year | Score |
-|--------|-------------|------|-------|
-| 🎓 **B.Tech – CS Engineering (AI/ML)** | Chandigarh Group of Colleges, Jhanjeri | 2023–2027 | CGPA: 7.4 |
-| 📘 **Senior Secondary (12th Grade)** | India International Public School | 2022 | 70% |
-| 📗 **Secondary School (10th Grade)** | Podar International School | 2020 | 72.2% |
-
----
-
 ## 💼 Experience
 
 ### 🐍 Python Development Intern — Pinnacle Labs (Virtual)
